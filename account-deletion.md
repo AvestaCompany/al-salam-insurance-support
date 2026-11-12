@@ -8,7 +8,7 @@ permalink: /account-deletion/
 
 [العربية](https://avestacompany.github.io/al-salam-insurance-support/account-deletion/#arabic)
 
-Avesta Group handles requests to delete **Al Salam Insurance** accounts and the personal data associated with them. You can make a request even if you cannot sign in.
+Avesta Group handles requests to delete **Al Salam Insurance** accounts and the personal data associated with them. To open these instructions in the app, choose **Profile → Request account deletion**. You can also make a request by email if you cannot sign in.
 
 1. Email Avesta Group at **sales@avestagroup.net** with the subject **Al Salam Insurance account deletion**. The email link below fills in the subject. [Email a deletion request](mailto:sales@avestagroup.net?subject=Al%20Salam%20Insurance%20account%20deletion)
 2. Say that you want your account and associated personal data deleted. Give a way to reach you and ask how to verify ownership privately. If you have an active policy, open claim or pending payment, ask how deletion affects it before confirming.
@@ -22,7 +22,7 @@ Keep passwords, one-time codes, payment details and identity or licence images o
 
 ## طلب حذف حساب السلام للتأمين
 
-تتولى مجموعة أفيستا طلبات حذف حسابات **تطبيق السلام للتأمين** والبيانات الشخصية المرتبطة بها. يمكنك تقديم طلب حتى إذا تعذّر عليك تسجيل الدخول.
+تتولى مجموعة أفيستا طلبات حذف حسابات **تطبيق السلام للتأمين** والبيانات الشخصية المرتبطة بها. لفتح هذه التعليمات من داخل التطبيق، اختر **الملف الشخصي ← طلب حذف الحساب**. ويمكنك أيضاً إرسال الطلب بالبريد الإلكتروني إذا تعذّر عليك تسجيل الدخول.
 
 1. راسل مجموعة أفيستا على **sales@avestagroup.net** مستخدماً عنوان **طلب حذف حساب السلام للتأمين**. يضيف الرابط التالي عنوان الطلب تلقائياً باللغة الإنجليزية. [إرسال طلب حذف بالبريد](mailto:sales@avestagroup.net?subject=Al%20Salam%20Insurance%20account%20deletion)
 2. اذكر أنك ترغب في حذف الحساب وبياناته الشخصية المرتبطة به. أضف وسيلة للرد عليك واطلب طريقة خاصة للتحقق من ملكيتك للحساب. إذا كانت لديك وثيقة تأمين سارية أو مطالبة مفتوحة أو دفعة معلقة، فاستفسر عن أثر الحذف عليها قبل تأكيد طلبك.
